@@ -1,6 +1,6 @@
 {
-  "name": "ember-cli-gtm",
-  "version": "0.1.1",
+  "name": "@scalefactor/ember-cli-gtm",
+  "version": "1.0.0",
   "description": "The default blueprint for ember-cli addons.",
   "directories": {
     "doc": "doc",
